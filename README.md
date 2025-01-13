@@ -1,6 +1,6 @@
 Quantum Chrono Terminal
 
-![QuantumChronoTerminal](https://github.com/Multi-Agent-sol/quantum-chrono-terminal/blob/main/Screenshot%202024-12-24%20150523.png)
+![QuantumChronoTerminal](u3772277138_generate_a_logo_using_the_words_ArkosDAO_--v_6.1_a4e730a7-d416-4ec4-9cb2-e2183313b768_1-removebg-preview.png)
 
 Embark on a Journey Across Timelines and Realities!
 
